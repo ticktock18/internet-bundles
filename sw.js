@@ -1,6 +1,6 @@
 const CACHE_NAME = "mimihapa-cache-v1";
 const urlsToCache = [
-  "/",
+  "https://mimihapa.co.tz/",
   "https://ticktock18.github.io/internet-bundles/manifest.json",
   "https://mimihapa.co.tz/favicon.ico"
 ];
@@ -18,5 +18,6 @@ self.addEventListener("fetch", event => {
     .then(response => response || fetch(event.request))
   );
 });
+
 
 
