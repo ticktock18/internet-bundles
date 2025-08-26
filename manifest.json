@@ -1,7 +1,7 @@
 {
   "name": "MimiHapa MEDICINE",
   "short_name": "MimiHapa",
-  "start_url": "https://mimihapa-medicinetz.blogspot.com/",
+  "start_url": "https://mimihapa.co.tz",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4CAF50",
@@ -19,6 +19,7 @@
     }
   ]
 }
+
 
 
 
